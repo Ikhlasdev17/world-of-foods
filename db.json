@@ -1,0 +1,87 @@
+{
+    "features": [
+        {
+            "id": "id123",
+            "title": "Fresh And Organic",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece.",
+            "image": "https://img.freepik.com/free-photo/basket-full-vegetables_1112-316.jpg?w=996"
+        },
+        {
+            "id": "id12345",
+            "title": "Free Delivery",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece.",
+            "image": "https://img.freepik.com/free-vector/delivery-service-with-masks-concept_23-2148535315.jpg?w=740"
+        },
+        {
+            "id": "id12asd3",
+            "title": "Easy Payments",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece.",
+            "image": "https://img.freepik.com/free-vector/credit-card-payment-concept-illustration_114360-5649.jpg?1&w=740"
+        }
+    ],
+
+    "customers": [
+        {
+            "id": "546asd",
+            "image": "https://www.csofttech.com/wp-content/uploads/2017/01/hire-developer-professional-man.jpg",
+            "name": "John Deo",
+            "description": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites."
+        },
+        {
+            "id": "546asasdd",
+            "image": "https://st4.depositphotos.com/12799330/38345/i/1600/depositphotos_383452398-stock-photo-serious-computer-programmer-developer-working.jpg",
+            "name": "Smith Jhonson",
+            "description": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites."
+        },
+        {
+            "id": "546aadssdsd",
+            "image": "https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/Sam-CF.jpg",
+            "name": "Markus",
+            "description": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites."
+        },
+        {
+            "id": "546aasdsddsd",
+            "image": "https://demo2.joomshaper.com/2019/folium/images/2019/11/01/dev-portrait-2x.png",
+            "name": "Genri",
+            "description": "Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites."
+        }
+    ],
+
+    "blogs": [
+
+        {
+            "id": "1asd13as",
+            "author": "Ikhlas",
+            "date": "1st May, 2021",
+            "title": "Fresh And Organic Vegitables And Fruits",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece.",
+            "image": "./src/image/blog-1.jpg"
+        },
+
+        {
+            "id": "1asd1sdf3as",
+            "author": "Ikhlas",
+            "date": "17th July, 2019",
+            "title": "Create Amazing Website With ReactJS",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece.",
+            "image": "./src/image/blog-2.jpg"
+        },
+
+        {
+            "id": "1asd13sssas",
+            "author": "Ikhlas",
+            "date": "4th Feubrary, 2020",
+            "title": "The world of melas",
+            "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece.",
+            "image": "./src/image/blog-3.jpg"
+        }
+
+    ]
+
+
+    
+
+
+ 
+
+}
